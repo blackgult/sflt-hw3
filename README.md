@@ -58,4 +58,12 @@ rsync -avPH --exclude='.*' --checksum --delete /home/dmitrym /tmp/backup
 
 ### Решение 2
 
+![2-1](https://github.com/blackgult/sflt-hw3/blob/main/2-1.PNG)
+
+![2-2](https://github.com/blackgult/sflt-hw3/blob/main/2-2.PNG)
+
+![2-3](https://github.com/blackgult/sflt-hw3/blob/main/2-3.PNG)
+
+![2-4](https://github.com/blackgult/sflt-hw3/blob/main/2-4.PNG)
+
 ---
