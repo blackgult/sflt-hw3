@@ -1,4 +1,4 @@
-![image](https://github.com/blackgult/sflt-hw3/assets/156673816/bb9b9bd0-4a43-43a5-b0c3-21c616d19562)# Домашнее задание к занятию 3 «Резервное копирование» - Михайлов Дмитрий
+# Домашнее задание к занятию 3 «Резервное копирование» - Михайлов Дмитрий
 
 ### Цель задания
 В результате выполнения этого задания вы научитесь:
@@ -42,7 +42,10 @@
 
 rsync -avPH --exclude='.*' --checksum --delete /home/dmitrym /tmp/backup
 
-![1-1](https://github.com/blackgult/sflt-hw3/assets/156673816/bb9b9bd0-4a43-43a5-b0c3-21c616d19562)
+![1-1](https://github.com/blackgult/sflt-hw3/blob/main/1-1.PNG)
+
+![1-2](https://github.com/blackgult/sflt-hw3/blob/main/1-2.PNG)
+
 
 ------
 
